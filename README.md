@@ -1,19 +1,14 @@
-# forum-vue
+# LZ forum
 
-## Project setup
-```
-yarn install
-```
+## 部分预览图
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![个人主页](/preview/个人主页.jpg)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![主页](/preview/主页.jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![音乐页](/preview/音乐页.jpg)
+
+![管理员页](/preview/管理员页.jpg)
+
+
+
