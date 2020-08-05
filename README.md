@@ -1,5 +1,9 @@
 # LZ forum
 
+## 前后端分离
+
+后端SSM框架代码请移步至：https://github.com/LqZww/forum-ssm
+
 ## 部分预览图
 
 主页：
